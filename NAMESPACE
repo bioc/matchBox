@@ -1,0 +1,8 @@
+###THESE ARE THE FUNCTION TO BE EXPORTED: you will need help files
+export(
+	calcHypPI,
+	computeCat,
+	plotCat,
+	filterRedundant,
+	mergeData
+)

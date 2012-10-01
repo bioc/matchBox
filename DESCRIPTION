@@ -1,0 +1,21 @@
+Package: matchBox
+Type: Package
+Title: Utilities to compute, compare, and plot the
+      agreement between ordered vectors of features
+      (ie. distinct genomic experiments). The package
+      includes Correspondence-At-the-TOP (CAT)
+      analysis.
+Version: 0.99.11
+Date: 2012-08-23
+Author: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <Anuj Gupta <agupta52@jhu.edu>
+Maintainer: Luigi Marchionni <marchion@jhu.edu>, Anuj
+      Gupta <Anuj Gupta <agupta52@jhu.edu>
+Depends: R (>= 2.8.0)
+Imports:
+Suggests:
+Description: The matchBox package enables comparing ranked vectors of features, merging multiple datasets, removing redundant features,
+ using CAT-plots and Venn diagrams, and computing statistical significance.
+License: Artistic-2.0
+biocViews: Software, Annotation, Microarray,
+      MultipleComparisons, Visualization
+LazyLoad: yes
