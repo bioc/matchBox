@@ -5,10 +5,8 @@ Title: Utilities to compute, compare, and plot the agreement between
         The package includes Correspondence-At-the-TOP (CAT) analysis.
 Version: 1.9.0
 Date: 2012-08-23
-Author: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <Anuj Gupta
-        <agupta52@jhu.edu>
-Maintainer: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <Anuj Gupta
-        <agupta52@jhu.edu>
+Author: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <agupta52@jhu.edu>
+Maintainer: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <agupta52@jhu.edu>
 Depends: R (>= 2.8.0)
 Imports:
 Suggests:
