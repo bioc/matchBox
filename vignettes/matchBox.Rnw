@@ -149,8 +149,9 @@ of analyzed genes.
 \subsection{Data structure}
 Download and install the package \Rpackage{matchBox} from {\Bioc}.
 <<eval=FALSE,echo=TRUE,cache=FALSE>>=
-source("http://bioconductor.org/biocLite.R")
-biocLite("matchBox")
+if (!requireNamespace("BiocManager", quietly=TRUE))
+    install.packages("BiocManager")
+BiocManager::install("matchBox")
 @ 
 
 Load the library.
