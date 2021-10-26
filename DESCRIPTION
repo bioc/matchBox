@@ -3,7 +3,7 @@ Type: Package
 Title: Utilities to compute, compare, and plot the agreement between
         ordered vectors of features (ie. distinct genomic experiments).
         The package includes Correspondence-At-the-TOP (CAT) analysis.
-Version: 1.36.0
+Version: 1.37.0
 Date: 2012-08-23
 Author: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <agupta52@jhu.edu>
 Maintainer: Luigi Marchionni <marchion@jhu.edu>, Anuj Gupta <agupta52@jhu.edu>
